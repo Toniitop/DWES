@@ -9,7 +9,9 @@ Se verán los siguientes apartados:
    1. dddd
 1. dfdf
 2. ~~dfdfdf~~
+
 ![Imagen 1](/assets/estu.png)
+
 ---
 Lenguaje  |  Inventor  |  Año  
 ----------|:------------:|----------:
