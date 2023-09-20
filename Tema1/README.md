@@ -8,7 +8,7 @@ Se verán los siguientes apartados:
    1. ddd
    1. dddd
 1. dfdf
-2. ~~dfdfdf~~
+2. ~~dfdfdf~~.
 
 ![Imagen 1](/assets/estu.png)
 
